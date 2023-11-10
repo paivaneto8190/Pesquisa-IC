@@ -1,4 +1,4 @@
-# Rastreador solar com arduino (RASCUNHO)
+# Rastreador solar com arduino
 
 O objetivo desse projeto é fazer um modelo em pequena escala de um dispositivo composto por 4 sensores LDR capazes de rastrear a luz solar e se direcionarem para a região de maior luminosidade.
 
