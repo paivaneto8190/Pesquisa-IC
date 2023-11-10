@@ -1,0 +1,7 @@
+arduino
+painel solar fotovoltaico
+servo motores
+controlador de carga
+sensores LDR
+sensores DHT22
+sensores de luminosidade
